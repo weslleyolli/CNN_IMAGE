@@ -1,1 +1,3 @@
-# Dependências do sistema para Streamlit Cloud
+# System dependencies for Streamlit Cloud (if needed)
+# Add packages here, one per line
+# Example: libsm6
