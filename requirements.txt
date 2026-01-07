@@ -1,23 +1,16 @@
-# Deep Learning Framework
-torch==2.1.0
-torchvision==0.16.0
+# Deep Learning Framework - versões compatíveis com Python 3.13
+torch>=2.5.0
+torchvision>=0.20.0
 
 # Interface Web
-streamlit==1.29.0
+streamlit>=1.29.0
 
 # Visualização e Análise
-matplotlib==3.8.2
-seaborn==0.13.0
-numpy==1.26.2
-pandas==2.1.4
+matplotlib>=3.8.0
+numpy>=1.26.0
 
 # Manipulação de Imagens
-Pillow==10.1.0
+Pillow>=10.0.0
 
 # Utilidades
-tqdm==4.66.1
-scikit-learn==1.3.2
-
-# Jupyter (para exploração)
-jupyter==1.0.0
-ipykernel==6.27.1
+tqdm>=4.66.0
